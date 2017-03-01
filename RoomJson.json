@@ -2,8 +2,8 @@
   "rooms": [
     {
       "roomNo": 138,
-      "roomXcoordinate": "17.7",
-      "roomYcoordinate": "10.1",
+      "roomXcoordinate": "200",
+      "roomYcoordinate": "200",
       "roomFloor": "GF"
 
     },

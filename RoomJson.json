@@ -2,47 +2,47 @@
   "rooms": [
     {
       "roomNo": 138,
-      "roomXcoordinate": "440",
+      "roomXcoordinate": "420",
       "roomYcoordinate": "100",
       "roomFloor": "GF"
 
     },
     {
       "roomNo": 140,
-      "roomXcoordinate": "340",
+      "roomXcoordinate": "120",
       "roomYcoordinate": "100",
       "roomFloor": "GF"
     },
 
     {
       "roomNo": 142,
-      "roomXcoordinate": "250",
+      "roomXcoordinate": "220",
       "roomYcoordinate": "100",
       "roomFloor": "GF"
     },
     {
       "roomNo": 144,
-      "roomXcoordinate": "150",
+      "roomXcoordinate": "125",
       "roomYcoordinate": "100",
       "roomFloor": "GF"
     },
 
     {
       "roomNo": 149,
-      "roomXcoordinate": "250",
+      "roomXcoordinate": "220",
       "roomYcoordinate": "320",
       "roomFloor": "GF"
     },
 
     {
       "roomNo": 151,
-      "roomXcoordinate": "350",
+      "roomXcoordinate": "325",
       "roomYcoordinate": "320",
       "roomFloor": "GF"
     },
     {
       "roomNo": 153,
-      "roomXcoordinate": "440",
+      "roomXcoordinate": "420",
       "roomYcoordinate": "300",
       "roomFloor": "GF"
     }

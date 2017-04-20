@@ -175,7 +175,159 @@
       "roomYcoordinate": "1332",
       "roomFloor": "GF"
 
-    }
+    },
+    {
+      "roomNo": 243           ,
+      "roomXcoordinate": "50",
+      "roomYcoordinate": "100",
+      "roomFloor": "FF"
 
-    ]
+    },
+
+    {
+      "roomNo": 241           ,
+      "roomXcoordinate": "150",
+      "roomYcoordinate": "93",
+      "roomFloor": "FF"
+
+    },
+    {
+      "roomNo": 239           ,
+      "roomXcoordinate": "250",
+      "roomYcoordinate": "93",
+      "roomFloor": "FF"
+
+    },
+
+    {
+      "roomNo": 237           ,
+      "roomXcoordinate": "360",
+      "roomYcoordinate": "93",
+      "roomFloor": "FF"
+
+    },
+
+    {
+      "roomNo": 248           ,
+      "roomXcoordinate": "175",
+      "roomYcoordinate": "290",
+      "roomFloor": "FF"
+
+    },
+
+    {
+      "roomNo": 250           ,
+      "roomXcoordinate": "284",
+      "roomYcoordinate": "290",
+      "roomFloor": "FF"
+
+    },
+
+    {
+      "roomNo": 252           ,
+      "roomXcoordinate": "350",
+      "roomYcoordinate": "290",
+      "roomFloor": "FF"
+
+    },
+
+
+    {
+      "roomNo": 256           ,
+      "roomXcoordinate": "730",
+      "roomYcoordinate": "327",
+      "roomFloor": "FF"
+
+    },
+
+    {
+      "roomNo": 264           ,
+      "roomXcoordinate": "730",
+      "roomYcoordinate": "88",
+      "roomFloor": "FF"
+
+    },
+
+    {
+      "roomNo": 262           ,
+      "roomXcoordinate": "942",
+      "roomYcoordinate": "101",
+      "roomFloor": "FF"
+
+    },
+
+    {
+      "roomNo": 259           ,
+      "roomXcoordinate": "870",
+      "roomYcoordinate": "327",
+      "roomFloor": "FF"
+
+    },
+
+    {
+      "roomNo": 207           ,
+      "roomXcoordinate": "68",
+      "roomYcoordinate": "1186",
+      "roomFloor": "FF"
+
+    },
+
+    {
+      "roomNo": 210           ,
+      "roomXcoordinate": "73",
+      "roomYcoordinate": "1412",
+      "roomFloor": "FF"
+
+    },
+
+    {
+      "roomNo": 212           ,
+      "roomXcoordinate": "165",
+      "roomYcoordinate": "1412",
+      "roomFloor": "FF"
+
+    },
+
+
+    {
+      "roomNo": 214           ,
+      "roomXcoordinate": "284",
+      "roomYcoordinate": "1412",
+      "roomFloor": "FF"
+
+    },
+
+    {
+      "roomNo": 216           ,
+      "roomXcoordinate": "350",
+      "roomYcoordinate": "1412",
+      "roomFloor": "FF"
+
+    },
+
+    {
+      "roomNo": 201           ,
+      "roomXcoordinate": "384",
+      "roomYcoordinate": "1186",
+      "roomFloor": "FF"
+
+    },
+
+    {
+      "roomNo": 203           ,
+      "roomXcoordinate": "284",
+      "roomYcoordinate": "1186",
+      "roomFloor": "FF"
+
+    },
+
+    {
+      "roomNo": 205           ,
+      "roomXcoordinate": "160",
+      "roomYcoordinate": "1186",
+      "roomFloor": "FF"
+
+    }
+    
+  ]
 }
